@@ -41,7 +41,7 @@ BASE_DIR_PATH="$(dirname "$(realpath "${0}")")"
 ## Module
 ################################################################################
 
-function mod_firefox_package_install () {
+function mod_anduinos_package_install () {
 
 	local run_cmd="apt-get install -y --install-recommends
 		anduinos-desktop
