@@ -12,3 +12,12 @@
 ##
 
 #demo-sub-exec
+
+
+
+
+##
+## ## AnduinOS
+##
+
+anduinos-package-install
